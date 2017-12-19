@@ -2,7 +2,7 @@
 Final Project of Rice COMP504(2017 Fall)
 
 ## Authors
-Lyu Pan, Yuhui Tong. Also thanks Stephon Wong for the provided codes.
+Lyu Pan, Yuhui Tong. Also thanks Dr. Stephen Wong for the provided code.
 
 ## Overview: 
 ### System Architecture
