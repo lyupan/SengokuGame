@@ -1,4 +1,8 @@
-# Final Project Milestone 2
+# Sengoku Game
+Final Project of Rice COMP504(2017 Fall)
+
+## Authors
+Lyu Pan, Yuhui Tong. Also thanks Stephon Wong for the provided codes.
 
 ## Overview: 
 ### System Architecture
